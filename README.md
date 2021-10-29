@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Caio
 #### I'm Caio from Brasil, I´m 20 years old. 
-![I'm Caio from Brasil, I´m 20 years old. ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 I started study about programming languages in 2019 in college and from that point on I became very interested in the front-end area.
 
