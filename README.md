@@ -8,7 +8,7 @@
 - 📫 How to reach me: https://www.linkedin.com/in/caio-sun-8678661a0/
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioSunGarcia&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioSunGarcia&show_icons=true&theme=synthwave)
 
 
 
