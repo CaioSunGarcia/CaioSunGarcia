@@ -1,5 +1,7 @@
 ### Hi there 👋, My name is Caio
-#### I'm Caio from Brazil, I´m 20 years old. 
+#### I'm Caio from Brazil, I´m 23 years old. 
+### Currently, I work in the IT infrastructure field, and I have knowledge in Python and Linux.
+
 
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioSunGarcia&show_icons=true&theme=synthwave) 
